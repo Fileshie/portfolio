@@ -28,9 +28,12 @@ Features include:
  
 [Website](http://code-it.com.au)
 
+Code-IT! offers fun programs for kids to learn how to design their own computer games and animations. 
+We built a highly customizable site using WordPress by taking advantage of Custom Post Types and ACF. This enabled our client to manage the site content in an intuitive manner.
 
 
-## Things to do near Flinders Street Station App :station:
+
+## Things to do near Flinders Street Station App 🚉
 
 > Things to do near Flinders Street Station Web App
 
@@ -39,6 +42,17 @@ Features include:
 [GitHub](https://github.com/Fileshie/melbourne-flinders-station)
 
 
+Find restaurants, cafés & entertainment near Melbourne's Flinders Street Station.
+
+This project was built using HTML5, CSS3, JavaScript, JQuery and Knockout.js as a SPA. The Google Places API was used to source all data. Hopefully you find something new and interesting around Flinder's station.
+
+Some features include:
+* Displays places of interest within 250km radius of Flinder's street station
+* Ability to Search for listed places by name
+* Viewing more details of a place by clicking on a map marker:
+ * See a hero image
+ * View the star rating
+ * View the latest review of the place
 
 ## Memory Game
 
