@@ -54,6 +54,9 @@ Some features include:
   * View the star rating
   * View the latest review of the place
 
+![Image of Memory Game](https://fileshie.github.io/portfolio/Flinders_Streeet_POI.png)
+
+
 ## Memory Game
 
 > A simple and fun memory game 
@@ -64,3 +67,7 @@ Some features include:
 
 This project was built as part of my Front-end Nano Degree at Udacity. It features a timer, game reset, animations and more. 
 The game was built using JavaScript, HTML5 and CSS3.
+
+
+![Image of Memory Game](https://fileshie.github.io/portfolio/Matching_Game.png)
+
