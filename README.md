@@ -54,7 +54,7 @@ Some features include:
   * View the star rating
   * View the latest review of the place
 
-![Image of Memory Game](https://fileshie.github.io/portfolio/Flinders_Streeet_POI.png)
+![Image of Flinders Street Station POI](https://fileshie.github.io/portfolio/Flinders_Streeet_POI.png)
 
 
 ## Memory Game
