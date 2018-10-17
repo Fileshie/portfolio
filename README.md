@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# Filéshié Tirubeni's Portfolio
 
-You can use the [editor on GitHub](https://github.com/Fileshie/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Kinderoo WordPress Theme
 
-### Markdown
+> A free WordPress theme for Kindergartens packed with plenty of features.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This project in an ongoing development of a free WordPress theme for Kindergartens. Intended to simply be one the best free WordPress themes in its category.
 
-```markdown
-Syntax highlighted code block
+Features include:
+* A fully featured single page template
+* High customization of page elements using WordPress customizer
+  * Font colors
+  * Background element colors
+  * Contains options to add 4 classes
+  * Contains options to add 6 teachers
+  * Footer allows allows widgets to be added for a contact form
+* Clean code that will continuously be improved
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Code-IT! Website
 
-1. Numbered
-2. List
+> A client site built with :heart: using WordPress, HTML5, CSS3 and JavaScript.
+ 
 
-**Bold** and _Italic_ and `Code` text
+## Things to do near Flinders Street Station App :station:
 
-[Link](url) and ![Image](src)
-```
+> Things to do near Flinders Street Station https://fileshie.github.io/melbourne-flinders-station/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Memory Game
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fileshie/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> A simple and fun memory game https://fileshie.github.io/memory-game/
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project was built as part of my Front-end Nano Degree at Udacity. It features a timer, game reset, animations and more. 
+The game was built using JavaScript, HTML5 and CSS3.
