@@ -21,11 +21,14 @@ Features include:
 * Clean code that will continuously be improved
 
 
+
 ## Code-IT! Website
 
 > A client site built with :heart: using WordPress, HTML5, CSS3 and JavaScript.
  
 [Website](http://code-it.com.au)
+
+
 
 ## Things to do near Flinders Street Station App :station:
 
@@ -34,6 +37,8 @@ Features include:
 [Demo](https://fileshie.github.io/melbourne-flinders-station/)
 
 [GitHub](https://github.com/Fileshie/melbourne-flinders-station)
+
+
 
 ## Memory Game
 
