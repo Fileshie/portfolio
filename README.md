@@ -57,9 +57,9 @@ Some features include:
 ![Image of Flinders Street Station POI](https://fileshie.github.io/portfolio/Flinders_Streeet_POI.png)
 
 
-## Memory Game
+## Memory Matching Game
 
-> A simple and fun memory game 
+> A simple and fun memory matching game 
 
 [Demo](https://fileshie.github.io/memory-game/)
 
