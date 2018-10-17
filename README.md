@@ -24,7 +24,7 @@ Features include:
 
 ## Code-IT! Website
 
-> A client site built with :heart: using WordPress, HTML5, CSS3 and JavaScript.
+> A client site built with ❤️ using WordPress, HTML5, CSS3 and JavaScript.
  
 [Website](http://code-it.com.au)
 
