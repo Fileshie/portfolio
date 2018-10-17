@@ -4,6 +4,8 @@
 ## Kinderoo WordPress Theme 
 > A free WordPress theme for Kindergartens packed with plenty of features.
 
+[Demo](https://kinderoo.powerwebpress.com.au)
+
 [GitHub](https://github.com/Fileshie/kinderoo)
 
 This project in an ongoing development of a free WordPress theme for Kindergartens. Intended to simply be one the best free WordPress themes in its category.
@@ -30,6 +32,7 @@ Features include:
 > Things to do near Flinders Street Station Web App
 
 [Demo](https://fileshie.github.io/melbourne-flinders-station/)
+
 [GitHub](https://github.com/Fileshie/melbourne-flinders-station)
 
 ## Memory Game
@@ -37,6 +40,7 @@ Features include:
 > A simple and fun memory game 
 
 [Demo](https://fileshie.github.io/memory-game/)
+
 [GitHub](https://fileshie.github.io/memory-game)
 
 This project was built as part of my Front-end Nano Degree at Udacity. It features a timer, game reset, animations and more. 
