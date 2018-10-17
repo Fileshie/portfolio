@@ -50,9 +50,9 @@ Some features include:
 * Displays places of interest within 250km radius of Flinder's street station
 * Ability to Search for listed places by name
 * Viewing more details of a place by clicking on a map marker:
- * See a hero image
- * View the star rating
- * View the latest review of the place
+  * See a hero image
+  * View the star rating
+  * View the latest review of the place
 
 ## Memory Game
 
