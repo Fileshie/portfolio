@@ -48,7 +48,7 @@ Find restaurants, cafés & entertainment near Melbourne's Flinders Street Statio
 This project was built using HTML5, CSS3, JavaScript, JQuery and Knockout.js as a SPA. The Google Places API was used to source all data. Hopefully you find something new and interesting around Flinder's station.
 
 Some features include:
-* Displays places of interest within 250km radius of Flinder's street station
+* Displays places of interest within 250m radius of Flinder's street station
 * Ability to Search for listed places by name
 * Viewing more details of a place by clicking on a map marker:
   * See a hero image
