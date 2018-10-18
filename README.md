@@ -30,9 +30,9 @@ Features include:
 [Website](http://code-it.com.au)
 
 Code-IT! offers fun programs for kids to learn how to design their own computer games and animations. 
-We built a highly customizable site using WordPress by taking advantage of Custom Post Types and ACF. This enabled our client to manage the site content in an intuitive manner.
+I built a highly customizable site using WordPress by taking advantage of Custom Post Types and ACF. This enabled our client to manage the site content in an intuitive manner.
 
-
+![Image of Code-IT! Website](https://fileshie.github.io/portfolio/code-it.png)
 
 ## Things to do near Flinders Street Station App 🚉
 
