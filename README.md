@@ -1,6 +1,6 @@
 # Filéshié Tirubeni's Portfolio
 
-[My GitHub](https://github.com/Fileshie)
+[My GitHub Profile Page](https://github.com/Fileshie)
 
 ## Kinderoo WordPress Theme 
 > A free WordPress theme for Kindergartens packed with plenty of features.
