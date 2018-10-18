@@ -20,6 +20,7 @@ Features include:
   * Footer allows allows widgets to be added for a contact form
 * Clean code that will continuously be improved
 
+![Image of Kinderoo Theme](https://fileshie.github.io/portfolio/kinderoo.png)
 
 
 ## Code-IT! Website
